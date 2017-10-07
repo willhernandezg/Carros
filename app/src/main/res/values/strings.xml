@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="placa">PLACA</string>
+    <string name="marca">MARCA</string>
+    <string name="modelo">MODELO</string>
+    <string name="color">COLOR</string>
+    <string name="precio">PRECIO</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="tituloCrear">CREAR CARRO</string>
+    <string name="mensajeGuardado">Carro agregado con exito</string>
+
+    <string name="registrarCarro">REGISTAR CARRO</string>
+    <string name="listarCarro">LISTAR CARROS</string>
+    <string-array name="opciones">
+        <item>@string/registrarCarro</item>
+        <item>@string/listarCarro</item>
+    </string-array>
+
+    <string name="mazda">MAZDA</string>
+    <string name="tesla">TESLA</string>
+    <string name="chevrolet">CHEVROLET</string>
+    <string-array name="marca">
+        <item>@string/chevrolet</item>
+        <item>@string/mazda</item>
+        <item>@string/tesla</item>
+    </string-array>
+
+    <string name="m2010">2010</string>
+    <string name="m2012">2012</string>
+    <string name="m2017">2017</string>
+    <string-array name="modelo">
+        <item>@string/m2010</item>
+        <item>@string/m2012</item>
+        <item>@string/m2017</item>
+    </string-array>
+
+    <string name="colorBlanco">BLANCO</string>
+    <string name="colorAzul">AZUL</string>
+    <string name="colorRojo">ROJO</string>
+    <string-array name="color">
+        <item>@string/colorBlanco</item>
+        <item>@string/colorAzul</item>
+        <item>@string/colorRojo</item>
+    </string-array>
+
+</resources>

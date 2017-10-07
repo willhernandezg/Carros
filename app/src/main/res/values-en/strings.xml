@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="borrar">DELETE</string>
+    <string name="chevrolet">CHEVROLET</string>
+    <string name="color">COLOR</string>
+    <string name="colorAzul">BLUE</string>
+    <string name="colorBlanco">WHITE</string>
+    <string name="colorRojo">RED</string>
+    <string name="guardar">SAVE</string>
+    <string name="listarCarro">LIST CAR</string>
+    <string name="m2010">2010</string>
+    <string name="m2012">2012</string>
+    <string name="m2017">2017</string>
+    <string name="marca">BRAND</string>
+    <string name="mazda">MAZDA</string>
+    <string name="mensajeGuardado">Car saved</string>
+    <string name="modelo">MODEL</string>
+    <string name="precio">PRICE</string>
+    <string name="registrarCarro">REGISTER CAR</string>
+    <string name="tesla">TESLA</string>
+    <string name="tituloCrear">CREATE CAR</string>
+    <string name="placa">PLATE</string>
+</resources>
